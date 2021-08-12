@@ -12,7 +12,7 @@ import './styles/submenuSearch.css'
 function App() {
   return (
     <div className="App">
-      <SidebarSearch />
+      <QuizApp />
       {
         //<SidebarSearch />
         //<SidebarSimple />
