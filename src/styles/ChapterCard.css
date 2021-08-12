@@ -1,0 +1,13 @@
+.progress-bar{
+    background-color: #31960C;
+}
+.card-overlay{
+    position: absolute;
+    top: 0px;
+    right:5px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    size: 24px;
+}
