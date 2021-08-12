@@ -3,16 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Note to the reviewer
-The React Components are in the src/components folder
-The src/assets contain a few images and importantly two json-like files that are used in the Quiz and Search Menu component
-All necessary Styles, Assets and Components are imported in App.js
-The commented out components are meant to be uncommented one by one in order to see them rendered separately
+The React Components are in the src/components folder\
+The src/assets contain a few images and importantly two json-like files that are used in the Quiz and Search Menu component\
+All necessary Styles, Assets and Components are imported in App.js\
+The commented out components are meant to be uncommented one by one in order to see them rendered separately\
 namely-
-  <SidebarSearch />
-  <SidebarSimple />
-  <QuizApp />
+  SidebarSearch
+  SidebarSimple
+  QuizApp
   
- I request you to keep in mind that minimal effort was put into recreating the UI exactly pixel by pixel and that the code's current purpose is to solely implement the barebone features as I have only been working on this for a short while.
+###I request you to keep in mind that minimal effort was put into recreating the UI exactly pixel by pixel and that the code's current purpose is to solely implement the barebone features as I have only been working on this for a short while.
 
 ## Available Scripts
 
