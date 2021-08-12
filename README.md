@@ -12,7 +12,7 @@ namely-
   SidebarSimple
   QuizApp
   
-###I request you to keep in mind that minimal effort was put into recreating the UI exactly pixel by pixel and that the code's current purpose is to solely implement the barebone features as I have only been working on this for a short while.
+### I request you to keep in mind that minimal effort was put into recreating the UI exactly pixel by pixel and that the code's current purpose is to solely implement the barebone features as I have only been working on this for a short while.
 
 ## Available Scripts
 
